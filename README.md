@@ -31,7 +31,7 @@ APPARATUS REQUIRED: Personal computer with Keil software
 <img width="261" height="308" alt="image" src="https://github.com/user-attachments/assets/bffe89f6-3ba9-4294-b817-8b545f680e66" />
 
 **Program:**
-
+~~~
 ORG 0000H   
 
 MOV A,#04H  
@@ -61,28 +61,17 @@ THICK: RET
 THIN:  
 
 END
+~~~
 
 **Output:**  
+<img width="1913" height="1142" alt="image" src="https://github.com/user-attachments/assets/483cf170-c84a-49c4-87cc-cdc435c88dc7" />
 
-<br>
-<br>
-<br>
 
 
 
 **Manual Calculations:**  
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
+<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/0b8a5df0-a6f5-4256-b432-bcd052db16e5" />
 
 
 **Result:**
-
 Thus the factorial of a number using 8051 keil was calculated and shown the output.
